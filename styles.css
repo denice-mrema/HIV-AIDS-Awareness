@@ -199,3 +199,6 @@ img{
     color: white;
   }
 }
+.map iframe {
+    border-radius: 10px;
+}
